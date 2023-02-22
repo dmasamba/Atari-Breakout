@@ -6,7 +6,7 @@ This is an Atari Breakout environment in OpenAI gym. I completed this project as
 
 You move a paddle and hit the ball in a brick wall at the top of the screen. Your goal is to destroy the brick wall. You can try to break through the wall and let the ball wreak havoc on the other side, all on its own! You have five lives.
 
-Please see below a demo of the environment
+See below a demo of the environment
 
 <img src="images/breakout.gif" width="40%">
 
